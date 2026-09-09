@@ -466,7 +466,7 @@ puts white{ bold{ "The most powerful dehumanizing machine is not technology but 
 puts white{ "When things are not going well, " } + white{ bold{ 'until you get the truth out on the table' } } + white{ ', no matter how ugly, ' } + white{ bold{ 'you are not in a position to deal with it.' } } + black{ bold{ ' - Bob Seelert, chairman of the global advertising firm Saatchi and Saatchi' } }
 puts white{ bold{ "The reasons you get into trouble become the reasons you don't get out of it." } } + black{ bold{ " - Old saying in the aviation industry." } }
 puts white{ "It seems that we are locked into a spiral in which " } + white{ bold{ "poor human performance begets automation, which worsens human performance, which begets increasing automation" } } + white{ ". The pattern is common to our time but is acute in aviation. Air France 447 was a case in point." } + black{ bold{ " - William Langewiesche, 'The Human Factor: Should Airplanes be Flying Themselves?', Vanity Fair, October 2014" } }
-puts white{ "The dynamic has become inevitable. " } + white{ bold{ "There will still be accidents, but at some point we will have only the machines to blame." } } + black{ bold{ " - William Langewiesche, 'The Human Factor: Should Airplanes be Flying Themselves?', Vanity Fair, October 2014"} }
+puts white{ "The dynamic has become inevitable. " } + white{ bold{ "There will still be accidents, but at some point we will have only the machines to blame." } } + black{ bold{ " - William Langewiesche, 'The Human Factor: Should Airplanes be Flying Themselves?', Vanity Fair, October 2014" } }
 # http://www.salon.com/2014/10/12/google_makes_us_all_dumber_the_neuroscience_of_search_engines/
 puts white{ "Looking back, I think " } + white{ bold{ "it was more difficult to see what the problems were than to solve them." } } + black{ bold{ " - Charles Darwin" } }
 puts white{ "Thoroughly conscious ignorance is the prelude to every real advance in science." } + black{ bold{ ' - James Clerk Maxwell' } }
@@ -708,8 +708,8 @@ puts white{ "You must have chaos within you to give birth to a dancing star." } 
 puts white{ "In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule." } + black{ bold{ " - Friedrich Nietzsche" } }
 puts white{ bold{ "All things are subject to interpretation." } } + white{ " Whichever interpretation prevails at a given time is a function of power and not truth." } + black{ bold{ " - Friedrich Nietzsche" } }
 puts white{ "Winged insects and honey gatherers of the mind." } + black{ bold{ " - Friedrich Nietzsche, on humans" } }
-puts white{ "Live dangerously."} + black{ bold{ " - Friedrich Nietzsche" } }
-puts white{ "The press, the machine, the railway, the telegraph are premises whose thousand-year conclusion no one has yet dared to draw."} + black{ bold{ " - Friedrich Nietzsche" } }
+puts white{ "Live dangerously." } + black{ bold{ " - Friedrich Nietzsche" } }
+puts white{ "The press, the machine, the railway, the telegraph are premises whose thousand-year conclusion no one has yet dared to draw." } + black{ bold{ " - Friedrich Nietzsche" } }
 puts white{ "Truths are illusions which we have forgotten are illusions." } + black{ bold{ " - Friedrich Nietzsche" } }
 puts white{ "Art raises its head where creeds relax." } + black{ bold{ " - Friedrich Nietzsche" } }
 puts white{ "Blessed are the forgetful: for they get the better even of their blunders." } + black{ bold{ " - Friedrich Nietzsche" } }
@@ -808,7 +808,7 @@ puts white{ "If it's a core business function - do it yourself, no matter what."
 puts white{ "All models are wrong, but some are useful." } + black{ bold{ " - George E. P. Box" } }
 puts white{ "I am convinced that we are in serious danger of losing press freedoms. It's already happening." } + black{ bold{ " - Nils Melzer, UN Special Rapporteur on Torture" } }
 puts white{ "Assange published proof of systematic torture. But instead of those responsible for the torture, it is Assange who is being persecuted. Second, he himself has been ill-treated to the point that he is now exhibiting symptoms of psychological torture. And third, he is to be extradited to a country that holds people like him in prison conditions that Amnesty International has described as torture. In summary: Julian Assange uncovered torture, has been tortured himself and could be tortured to death in the United States. And a case like that isn't supposed to be part of my area of responsibility? Beyond that, the case is of symbolic importance and affects every citizen of a democratic country." } + black{ bold{ " - Nils Melzer, UN Special Rapporteur on Torture" } }
-puts white{ "Thinking is one of the greatest pleasures of the human race."} + black{ bold{ " - Bertolt Brecht" } }
+puts white{ "Thinking is one of the greatest pleasures of the human race." } + black{ bold{ " - Bertolt Brecht" } }
 puts white{ "The only normal people are the ones you don't know very well." } + black{ bold{ " - Joe Ancis" } }
 puts white{ bold{ "Piękno niewiele kosztuje." } } + white{ " Beauty doesn't cost much." } + black{ bold{ " - Motto of Zakopane artists, Poland" } }
 puts white{ bold{ "Our greatest weakness lies in giving up." } } + white{ " The most certain way to succeed is always to try just one more time." } + black{ bold{ " - Thomas Edison" } }
@@ -824,7 +824,7 @@ puts white{ "A beautiful and disturbing tangle, that would be diminished if it w
 puts white{ "Hope is a shitty hedge." } + black{ bold{ " - Goldman Sachs" } }
 puts white{ "The web was supposed to forcefully challenge our opinions and push back, like a personal trainer who doesn't care how tired you say you are. Instead, Google has become like the pampering robots in WALL-E, giving us what we want at the expense of what we need. But, " } + white{ bold{ "it's not our bodies that are turning into mush: It's our minds." } } + black{ bold{ " - @superhighway98" } } # https://www.superhighway98.com/google
 puts white{ "You are not a drop in the ocean. You are the entire ocean in one drop." } + black{ bold{ " - Rumi" } }
-puts white{ "Silence is the language of God. All else is poor translation." } + black{ bold{ " - Rumi"} }
+puts white{ "Silence is the language of God. All else is poor translation." } + black{ bold{ " - Rumi" } }
 puts white{ "Hope is not a strategy." } + black{ bold{ " - Site reliability engineers' motto." } }
 puts white{ "Documentation is like sex: when it is good, it is very, very good; and when it is bad, it is better than nothing." } + black{ bold{ " - Dick Brandon" } }
 puts white{ "Be brief, be brilliant or be gone." } + black{ bold{ " - Advice on speaking" } }
@@ -898,7 +898,6 @@ puts white{ "Chance favours the prepared mind." } + black{ bold{ " - Louis Paste
 puts white{ bold{ "Naivete is an asset." } } + white{ " That's why entrepreneurs can come in and disrupt a huge business full of incumbents with billions of dollars in market value. Look at Kodak. Kodak knew of the digital camera in the 70s. But they wouldn't acknowledge it and they wouldn't touch it, because of all these other systems built up around it." } + black{ bold{ " - Tony Fadell (2021)" } }
 puts white{ "Would you tacitly support genocide if your employer bought you lunch?" } + black{ bold{ " - @ALittleLight, on the moral fiber of Google employees following the 2021 deletion of Youtube videos regarding Xinjiang" } }
 puts white{ "An expert is a person who has made most of the possible mistakes in a given field." }
-puts white{ "Cut twice and it's still too short." } + black{ bold{ " - Machinist's saying" } }
 puts white{ bold{ "Seagull management" } } + black{ bold{ ":" } } + white{ " fly in, squawk a lot, shit over everything, and then fly off." }
 puts white{ bold{ "middlewared" } } + black{ bold{ ": " } } + white{ "to be encumbered by faults deep in the toolchain." } + black{ bold{ " - @0des" } }
 puts white{ "I love what I do, and I know how to use my willpower to get anything that might divert me out of my way. I lead a simple and happy life. " } + white{ bold{ "Everything around me converges, and indeed must converge, to promote the task I have set myself" } } + white{ "." } + black{ bold{ " - Marcel Dassault" } }
@@ -1067,7 +1066,57 @@ puts white{ "HN is reddit with terminal stage Dunning-Kruger." } + black{ bold{ 
 puts white{ "They're pathetically pretechnological or brilliantly post-technological." } + black{ bold{ " - Stargate Atlantis, Episode 14 'Sanctuary'." } }
 puts white{ bold{ "They're trying to have a CEO press a button that makes a game, and then everyone else somehow buys it without a job." } } + white{ " So I don't see that going anywhere sustainable, and I feel like there will simply be a pop and a reckoning." } + black{ bold{ " - Tarn Adams (Dwarf Fortress creator) on the 2026 games industry vs. AI" } }
 puts white{ "Citizens will be on their best behavior, because we're constantly recording and reporting everything that is going on." } + black{ bold{ " - Larry Ellison, Co-Founder of Oracle (2024)" } }
+
+# Machining themed
+puts "----- machining -----"
+puts white{ "Cut twice and it's still too short." } + black{ bold{ " - Machinist's saying" } }
 puts white{ "It's easy to make junk." } + black{ bold{ " - Machinist's saying" } }
+puts white{ bold{ "工欲善其事，必先利其器。" } } + white{ " A craftsman who wishes to do good work must first sharpen his tools." }
+puts white{ bold{ "三思而后行。" } } + white{ " Think three times, then act." }
+puts white{ bold{ "磨刀不误砍柴工。" } } + white{ " Sharpening the axe does not delay cutting firewood." }
+puts white{ bold{ "欲速则不达。" } } + white{ " Desire for speed prevents arrival." }
+puts white{ bold{ "趁热打铁。" } } + white{ " Strike while the iron is hot." }
+
+puts white{ bold{ "熟能生巧。" } } + white{ " Practice produces skill." }
+puts white{ bold{ "失败是成功之母。" } } + white{ " Failure is the mother of success." }
+puts white{ bold{ "万事开头难。" } } + white{ " Every undertaking is difficult at the beginning." }
+puts white{ bold{ "细节决定成败。" } } + white{ " Details determine success or failure." }
+puts white{ bold{ "坚持就是胜利。" } } + white{ " Persistence is victory." }
+puts white{ bold{ "Ἀρχὴ ἥμισυ παντός." } } + white{ " The beginning is half of the whole." }
+puts white{ bold{ "Festina lente." } } + white{ " Make haste slowly." }
+puts white{ bold{ "Gutta cavat lapidem." } } + white{ " A drop hollows out a stone." }
+puts white{ bold{ "Labor omnia vincit." } } + white{ " Work conquers all." }
+puts white{ bold{ "Repetitio mater studiorum est." } } + white{ " Repetition is the mother of learning." }
+puts white{ bold{ "Семь раз отмерь, один раз отрежь." } } + white{ " Measure seven times, cut once." }
+puts white{ bold{ "Без труда не вытащишь и рыбку из пруда." } } + white{ " Without effort, you will not pull even a fish from a pond." }
+puts white{ bold{ "Поспешишь — людей насмешишь." } } + white{ " Hurry, and you will make people laugh." }
+puts white{ bold{ "Мал золотник, да дорог." } } + white{ " Small, but precious." }
+puts white{ bold{ "Доверяй, но проверяй." } } + white{ " Trust, but verify." }
+puts white{ bold{ "Chi va piano, va sano e va lontano." } } + white{ " He who goes slowly goes safely and far." }
+puts white{ bold{ "Sbagliando s'impara." } } + white{ " By making mistakes, one learns." }
+puts white{ bold{ "La fretta è cattiva consigliera." } } + white{ " Haste is a bad adviser." }
+puts white{ bold{ "L'arte non si impara senza fatica." } } + white{ " A craft is not learned without effort." }
+puts white{ bold{ "Chi ben comincia è a metà dell'opera." } } + white{ " Well begun is half done." }
+puts white{ bold{ "A buon intenditor poche parole." } } + white{ " Few words suffice for the analytical." }
+puts white{ bold{ "Chi fa da sé, fa per tre." } } + white{ " Whoever does it themself does the work of three." }
+puts white{ bold{ "Non si può avere la botte piena e la moglie ubriaca." } } + white{ " You cannot have the barrel full and the wife drunk." }
+puts white{ bold{ "Ogni cosa a suo tempo." } } + white{ " Everything in its own time." }
+puts white{ bold{ "Řemeslo má zlaté dno." } } + white{ " A trade has a golden bottom." }
+puts white{ bold{ "Kdo chce, hledá způsob; kdo nechce, hledá důvod." } } + white{ " Whoever wants to, finds a way; whoever does not, finds an excuse." }
+puts white{ bold{ "Ranní ptáče dál doskáče." } } + white{ " The early bird hops farther." }
+puts white{ bold{ "Trpělivost růže přináší." } } + white{ " Patience brings roses." }
+puts white{ bold{ "Kdo šetří, má za tři." } } + white{ " Whoever saves has as if they had three." }
+puts white{ bold{ "Žádný učený z nebe nespadl." } } + white{ " No learned person fell from the sky." }
+puts white{ bold{ "Práce kvapná, málo platná." } } + white{ " Hasty work is worth little." }
+puts white{ "A place for everything, and everything in its place." }
+puts white{ bold{ "Wo gehobelt wird, da fallen Späne." } } + white{ " Where wood is planed, chips fall." }
+puts white{ bold{ "Eile mit Weile." } } + white{ " Hasten with deliberation." }
+puts white{ bold{ "Selbst ist der Mann." } } + white{ " DIY." }
+puts white{ bold{ "Am Werkzeug erkennt man den Meister." } } + white{ " One recognises the master by their tools." }
+puts white{ bold{ "Wer krumm anfängt, wird nie gerade fertig." } } + white{ " Whoever starts crooked will never finish straight." }
+puts white{ "The nut behind the wheel is the problem." }
+puts white{ "A machinist washes their hands before and after they pee." }
+puts white{ "Let the tool do the work." }
 
 # Ackoff
 puts "----- russell l. ackoff -------"
@@ -1249,7 +1298,7 @@ puts white{ "The Turing test is like saying planes don't fly unless they can foo
 puts white{ "Using weighted majority to evaluate MOOCs that teach sequential prediction. It's online learning of online learning for online learning." } + black{ bold{ ' - @ML_Hipster' } }
 puts white{ bold{ "Q" } } + white{ ": How many machine learners does it take to change a lightbulb? " } + white{ bold{ "A" } } + white{ ": Isn't that a database thing?" } + black{ bold{ ' - @ML_Hipster' } }
 puts white{ bold{ "This ML algorithm is rated R." } } + white{ " It contains: Strong assumptions, frequent sampling, and matrix inversions. Restricted to masochistic users." } + black{ bold{ " - @ML_Hipster" } }
-puts white{ "Thinking of changing my business cards to read: " } + white{ bold{ "Freelance Datamancer"} } + white{ "." } + black{ bold{ " - @ML_Hipster" } }
+puts white{ "Thinking of changing my business cards to read: " } + white{ bold{ "Freelance Datamancer" } } + white{ "." } + black{ bold{ " - @ML_Hipster" } }
 puts white{ "The most important problem in machine learning is overfitting, or hallucinating patterns that aren't really there." } + black{ bold{ " - Pedro Domingos, 'The Master Algorithm' (2015)" } }
 puts white{ bold{ "We induce the most widely applicable rules we can and reduce their scope only when the data forces us to." } } + white{ " At first sight this may seem ridiculously overconfident, but it's been working for science for over 300 years." } + black{ bold{ " - Pedro Domingos, 'The Master Algorithm' (2015), paraphrasing Newton's Third Law of Induction" } }
 puts white{ bold{ "Learning is forgetting the details" } } + white{ " as much as it is remembering the important parts." } + black{ bold{ " - Pedro Domingos, 'The Master Algorithm' (2015)" } }
@@ -1829,7 +1878,7 @@ puts white{ "Insanity is doing the same thing over and over and expecting differ
 puts white{ "Origin of man now proved... he who understands baboon would do more towards metaphysics than Locke." } + black{ bold{ " - Charles Darwin (1838)" } }
 puts white{ bold{ "Bamboo law" } } + black{ bold{ ": " } } + white{ "A bamboo plant grew only a few centimeters per day for 5 years. At 5 years, it suddenly began to grow 30 centimeters per day, and reached 15 meters height in just six weeks. It was discovered that it was working underground, building a large root network to facilitate future growth." }
 puts white{ bold{ "I visualize a time when we will be to robots what dogs are to humans." } } + white{ " And I am rooting for the machines." } + black{ bold{ " - Claude Shannon" } }
-puts white{ bold{ "Hipster Effect"} } + black{ bold{ ": " } } + white{ "Hipsters initially act randomly but then undergo a phase transition into a synchronized state." } # https://www.technologyreview.com/s/613034/the-hipster-effect-why-anti-conformists-always-end-up-looking-the-same/
+puts white{ bold{ "Hipster Effect" } } + black{ bold{ ": " } } + white{ "Hipsters initially act randomly but then undergo a phase transition into a synchronized state." } # https://www.technologyreview.com/s/613034/the-hipster-effect-why-anti-conformists-always-end-up-looking-the-same/
 puts white{ "In many cases, it's easier to automate a white collar job these days with software than it is to automate a blue collar job requiring flexible physical tasks with robotics." } + black{ bold{ " - @mdorazio" } }
 # https://www.theguardian.com/commentisfree/2019/mar/15/capitalism-destroying-earth-human-right-climate-strike-children
 puts white{ "Every generation, everywhere, shall have an equal right to the enjoyment of natural wealth." } + black{ bold{ " - George Monbiot (2019): proposed replacement of 'all human beings are born free and equal in dignity and rights' in the UN Universal Declaration of Human Rights to account for inter-generational theft through environmental destruction." } }
@@ -1874,7 +1923,7 @@ puts white{ "Our emphasis on people is deliberate." } + black{ bold{ " - J.C.R. 
 puts white{ "Nothing can now be believed which is seen in a newspaper." } + black{ bold{ " - Thomas Jefferson (1807)" } }
 puts white{ "You don't have to like it, but you need to understand it if you're proposing to replace it." } + black{ bold{ " - John Levine (2020)" } }
 puts white{ "The invention of the wheel was a huge job killer." } + black{ bold{ " - @dfilppi" } }
-puts white{ "The product of the human brain has escaped the control of human hands. This is the comedy of science."} + black{ bold{ " - Karel Čapek (1921), inventor of the term 'robot'" } }
+puts white{ "The product of the human brain has escaped the control of human hands. This is the comedy of science." } + black{ bold{ " - Karel Čapek (1921), inventor of the term 'robot'" } }
 puts white{ bold{ "The modern scientist" } } + white{ ", untroubled by metaphysical ideas; scientific experiment is to him the road to industrial production. He is not concerned to prove, but to manufacture." } + black{ bold{ " - Karel Čapek (1921), inventor of the term 'robot'" } }
 puts white{ "If I had asked people what they had wanted, they would have said faster horses." } + black{ bold{ " - Henry Ford" } }
 puts white{ bold{ "1970" } } + black{ bold{ ": " } } + white{ "We're going to build a global network that can withstand a nuclear war. " } + white{ bold{ "2021" } } + black{ bold{ ": " } } + white{ "AWS is down and my coffee machine doesn't work." } + black{ bold{ " - @VessOnSecurity" } }
@@ -2294,20 +2343,20 @@ puts white{ "Extract learning." }
 
 # We are destroying software @ https://antirez.com/news/145
 puts "---- Destroying software ----"
-puts white{ "We are destroying software by no longer taking complexity into account when adding features or optimizing some dimension."} + black{ bold{ " - @antirez" } }
-puts white{ "We are destroying software with complex build systems."} + black{ bold{ " - @antirez" } }
-puts white{ "We are destroying software with an absurd chain of dependencies, making everything bloated and fragile."} + black{ bold{ " - @antirez" } }
-puts white{ "We are destroying software telling new programmers: “Don't reinvent the wheel!”. But, reinventing the wheel is how you learn how things work, and is the first step to make new, different wheels."} + black{ bold{ " - @antirez" } }
-puts white{ "We are destroying software by no longer caring about backward APIs compatibility."} + black{ bold{ " - @antirez" } }
-puts white{ "We are destroying software pushing for rewrites of things that work."} + black{ bold{ " - @antirez" } }
-puts white{ "We are destroying software by jumping on every new language, paradigm, and framework."} + black{ bold{ " - @antirez" } }
-puts white{ "We are destroying software by always underestimating how hard it is to work with existing complex libraries VS creating our stuff."} + black{ bold{ " - @antirez" } }
-puts white{ "We are destroying software by always thinking that the de-facto standard for XYZ is better than what we can do, tailored specifically for our use case."} + black{ bold{ " - @antirez" } }
-puts white{ "We are destroying software claiming that code comments are useless."} + black{ bold{ " - @antirez" } }
-puts white{ "We are destroying software mistaking it for a purely engineering discipline."} + black{ bold{ " - @antirez" } }
-puts white{ "We are destroying software by making systems that no longer scale down: simple things should be simple to accomplish, in any system."} + black{ bold{ " - @antirez" } }
-puts white{ "We are destroying software trying to produce code as fast as possible, not as well designed as possible."} + black{ bold{ " - @antirez" } }
-puts white{ "We are destroying software, and what will be left will no longer give us the joy of hacking."} + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software by no longer taking complexity into account when adding features or optimizing some dimension." } + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software with complex build systems." } + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software with an absurd chain of dependencies, making everything bloated and fragile." } + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software telling new programmers: “Don't reinvent the wheel!”. But, reinventing the wheel is how you learn how things work, and is the first step to make new, different wheels." } + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software by no longer caring about backward APIs compatibility." } + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software pushing for rewrites of things that work." } + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software by jumping on every new language, paradigm, and framework." } + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software by always underestimating how hard it is to work with existing complex libraries VS creating our stuff." } + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software by always thinking that the de-facto standard for XYZ is better than what we can do, tailored specifically for our use case." } + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software claiming that code comments are useless." } + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software mistaking it for a purely engineering discipline." } + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software by making systems that no longer scale down: simple things should be simple to accomplish, in any system." } + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software trying to produce code as fast as possible, not as well designed as possible." } + black{ bold{ " - @antirez" } }
+puts white{ "We are destroying software, and what will be left will no longer give us the joy of hacking." } + black{ bold{ " - @antirez" } }
 
 puts "---- dieter rams' 10 principles of good design ----"
 puts white{ "Good design is innovative." } + black{ bold{ " - Dieter Rams" } }
