@@ -453,7 +453,7 @@ puts white{ bold{ "The simple things you see are all complicated." } } + black{ 
 puts white{ bold{ "Let us be lazy in everything, except in loving and drinking, except in being lazy." } } + black{ bold{ " - Gotthold Ephraim Lessing (1729-1781)" } }
 puts white{ bold{ "It is the mark of great people to treat trifles as trifles and important matters as important." } } + black{ bold{ " - Gotthold Ephraim Lessing (1729-1781)" } }
 puts white{ bold{ "The worst of superstitions is to think one's own most bearable." } } + black{ bold{ " - Gotthold Ephraim Lessing (1729-1781), 'Nathan the Wise' (1779), Act IV, scene II" } }
-puts white{ bold{ "It is infinitely difficult to know when and where one should stop, and for all but one in thousands the goal of their thinking is the point at which they have become tired of thinking." } } + black{ bold{ " - Gotthold Ephraim Lessing (1729-1781)" } }
+puts white{ bold{ "It is infinitely difficult to know when and where one should stop" } } + white{ ", and for all but one in thousands the goal of their thinking is the point at which they have become tired of thinking." } + black{ bold{ " - Gotthold Ephraim Lessing (1729-1781)" } }
 puts white{ bold{ "Laziness is the mother of efficiency." } } + black{ bold{ " - Marian Propp" } }
 puts white{ bold{ "Human nature is above all things lazy." } } + black{ bold{ " - Harriet Beecher Stowe (1811-1896)" } }
 puts white{ bold{ "Law of Communications" } } + white{ ": The inevitable result of improved and enlarged communications between different levels in a hierarchy is a vastly increased area of misunderstanding." }
